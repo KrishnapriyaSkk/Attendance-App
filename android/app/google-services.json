@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "866181224473",
+    "firebase_url": "https://mits-attendance.firebaseio.com",
+    "project_id": "mits-attendance",
+    "storage_bucket": "mits-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866181224473:android:45475670a7c1421f4bb288",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866181224473-m2ge0gbtkap1knha3f0l9lqkign7k3ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo_app",
+            "certificate_hash": "688c515008b0065c07e698d5f7ed72754bf8db7f"
+          }
+        },
+        {
+          "client_id": "866181224473-ord0m54c6a508f3q72qdovtql3roebpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR0K4TymnpY9ChXYPCXHf5uF0a9NtCQ7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866181224473-ord0m54c6a508f3q72qdovtql3roebpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
